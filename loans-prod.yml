@@ -1,0 +1,11 @@
+
+build:
+  version: 8.2
+loans:
+  message: "Welcome to eazybank for loans services related to prod Environment"
+  contactDetails:
+    name: Christopher Ami
+    email: christ@gma
+  onCallSupport:
+    - (333) 745-1234
+    - (222) 456-1345

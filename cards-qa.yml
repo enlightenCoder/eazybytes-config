@@ -1,0 +1,11 @@
+build:
+  version: "1.4"
+
+cards:
+  message: "Welcome to eazybank for cards services related to QA Environment"
+  contactDetails:
+    name: Christopher Ami
+    email: christ@gma
+  onCallSupport:
+    - (333) 745-1234
+    - (222) 456-1345

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to eazybank related to QA APIS"
+  contactDetails:
+    name: "John Reynes - QA lead"
+    email: "johnReynes@gmail.com"
+  onCallSupport:
+    - (111) 345-1234
+    - (111) 457-1244
