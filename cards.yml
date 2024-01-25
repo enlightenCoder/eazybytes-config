@@ -1,7 +1,6 @@
 spring:
   application:
     name: "cards"
-spring:
   profiles:
     active: "prod"
 
