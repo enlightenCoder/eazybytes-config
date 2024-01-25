@@ -2,7 +2,7 @@ build:
   version: "1.8"
 
 cards:
-  message: "Welcome to eazybank for cards services related to production Environment"
+  message: "Welcome to eazybank for cards services related to prod Environment"
   contactDetails:
     name: Flora Hughes
     email: flohug@gmail.com
