@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to eazybank related to prod environment webhook test APIs. Please come with your ID or Passport."
+  message: "Welcome to eazybank related to prod environment webhook test APIs."
   contactDetails:
     name: "Paul Smith - Production Manager"
     email: "{cipher}b5f43f91da03b3896d6a3a7f05c98259d67ca5d212a3b06d306297f3b66c2d89c492e92b9d615904d054970afeb2f35c"
