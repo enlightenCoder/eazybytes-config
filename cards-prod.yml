@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to eazybank for cards services related to webhook production Environment. Please bring your ID and also passport."
   contactDetails:
-    name: Flora Hughes
-    email: flohug@gmail.com
+    name: Paul Hughes
+    email: pauhug@gmail.com
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
