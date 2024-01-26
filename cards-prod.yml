@@ -2,7 +2,7 @@ build:
   version: "1.8"
 
 cards:
-  message: "Welcome to eazybank for cards services related to webhook prod Environment"
+  message: "Welcome to eazybank for cards services related to webhook production Environment. Please bring your ID."
   contactDetails:
     name: Flora Hughes
     email: flohug@gmail.com
